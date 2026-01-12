@@ -1,0 +1,9 @@
+Step 1: Install the GEI extension of the GitHub CLI
+
+Install the GitHub CLI. For installation instructions for GitHub CLI, see the GitHub CLI repository.
+Download and install the GitHub CLI following instructions from its official repo/docs.
+Ensure version 2.4.0 or later is installed:
+gh extension install github/gh-gei
+Step 2: Update the GEI extension of the GitHub CLI
+To make sure you're using the latest version, update the extension.
+gh extension upgrade github/gh-gei
